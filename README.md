@@ -1,2 +1,2 @@
 # storemanagment-system-
-oop projrct for final
+oop project for final
